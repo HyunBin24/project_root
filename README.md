@@ -60,6 +60,14 @@ project_root/
    - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
    - 수정/추가한 내용: [capture1.png, capture2.png 추가]
 
+10. **열 번째 commit**
+   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
+   - 수정/추가한 내용: [README.md 내용 추가]
+
+11. **열한 번째 commit**
+   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
+   - 수정/추가한 내용: [README.md 내용 수정]
+
 ---
 
 ## 4. 캡처 이미지
@@ -67,7 +75,7 @@ project_root/
 - `capture2.png` → GitHub push → pull 후 VS Code 화면  
 
 예시:  
-![첫번째 캡처](doc/images/capture.png)  
+![첫번째 캡처](doc/images/capture1.png)  
 ![두번째 캡처](doc/images/capture2.png)  
 
 ---
