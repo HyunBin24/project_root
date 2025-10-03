@@ -25,48 +25,52 @@ project_root/
 
 ## 3. 수행 과정
 1. **src/app.py 작성 및 첫 commit**
-   - commit 메시지: `ADD: app.py`  
+   - commit 메시지: `ADD: app.py commit 1`  
    - 기능: [app.py 추가]  
 
 2. **두 번째 commit**
-   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
+   - commit 메시지: `MODIFY: app.py commit 2`  
    - 수정/추가한 내용: [print("Hello, VSCode and GitHub!") 추가]  
 
 3. **세 번째 commit**
-   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
+   - commit 메시지: `FIX: app.py commit 3`  
    - 수정/추가한 내용: [print("Hello, World!")로 수정]  
 
 4. **네 번째 commit**
-   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
+   - commit 메시지: `MODIFY: app.py commit 4`  
    - 수정/추가한 내용: [print("Hello, VSCode and GitHub!") 추가]  
 
 5. **다섯 번째 commit**
-   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
+   - commit 메시지: `MODIFY: app.py commit 5`  
    - 수정/추가한 내용: [print("Hello, there!") 추가]  
 
 6. **여섯 번째 commit**
-   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
+   - commit 메시지: `MODIFY: app.py commit 6`  
    - 수정/추가한 내용: [print("Nice to meet you!") 추가]  
 
 7. **일곱 번째 commit**
-   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
+   - commit 메시지: `MODIFY: app.py commit 7`  
    - 수정/추가한 내용: [print("How are you?") 추가]  
 
 8. **여덟 번째 commit**
-   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
+   - commit 메시지: `ADD: README.md commit 8`  
    - 수정/추가한 내용: [README.md 추가]  
 
 9. **아홉 번째 commit**
-   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
+   - commit 메시지: `ADD: capture1.png, capture2.png commit 9`  
    - 수정/추가한 내용: [capture1.png, capture2.png 추가]
 
 10. **열 번째 commit**
-   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
-   - 수정/추가한 내용: [README.md 내용 추가]
+    - commit 메시지: `MODIFY: README.md commit 10`  
+    - 수정/추가한 내용: [README.md 템플릿 내용 추가]
 
 11. **열한 번째 commit**
-   - commit 메시지: `MODIFY: ~` 또는 `FIX: ~`  
-   - 수정/추가한 내용: [README.md 내용 수정]
+    - commit 메시지: `FIX: README.md commit 11`  
+    - 수정/추가한 내용: [열 번째, 열한 번째 commit 내용 추가, capture1 경로 수정]
+
+12. **열두 번째 commit**
+    - commit 메시지: `FIX: README.md commit 12`  
+    - 수정/추가한 내용: [첫 번째 ~ 열한 번째 commit 메시지 수정, 열두 번째 commit 내용 추가]
 
 ---
 
